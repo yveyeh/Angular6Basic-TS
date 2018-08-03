@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular6BasicTS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Angular6Basic-TS
+Angular 6 Basics - Typescript
+>>>>>>> da599a1d3a3d3c8a98144e4a1d25445998af8010
